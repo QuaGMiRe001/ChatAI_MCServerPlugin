@@ -22,7 +22,7 @@ A drop-in Bukkit plugin that brings vanilla Minecraft villagers (and server chat
   - Non-quest villagers will point you to your local quest-giver  
 
 - **Simple Quest System**  
-  - “Kill X skeletons” or “Fetch Y diamonds” tasks, with built-in action-bar progress  
+  - “Kill X skeletons/zombies” or “Fetch Y diamonds” tasks, with built-in action-bar progress  
   - Rewards are given via console commands  
   - Progress notifications on kill/item pickup, completion sends action-bar + chat  
 
