@@ -1,0 +1,14 @@
+name: ChatAI
+main: com.graphitact.chatai.ChatAIPlugin
+version: 1.0
+api-version: 1.21
+depend: [Citizens]
+commands:
+  chatai:
+    description: Reload personalities.yml
+    usage: /chatai reload
+    permission: chatai.reload
+permissions:
+  chatai.reload:
+    description: Reload ChatAI personalities
+    default: op

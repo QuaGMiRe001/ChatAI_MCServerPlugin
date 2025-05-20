@@ -1,0 +1,10 @@
+com\graphitact\chatai\VillagerChatListener$VillagerSession.class
+com\graphitact\chatai\VillagerChatListener.class
+com\graphitact\chatai\ChatAIPlugin.class
+com\graphitact\chatai\quest\QuestSystem$2.class
+com\graphitact\chatai\quest\QuestSystem$Quest$Type.class
+com\graphitact\chatai\quest\QuestSystem$Quest.class
+com\graphitact\chatai\AIClient.class
+com\graphitact\chatai\quest\QuestSystem.class
+com\graphitact\chatai\quest\QuestSystem$1.class
+com\graphitact\chatai\ServerChatListener.class
