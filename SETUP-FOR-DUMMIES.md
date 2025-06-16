@@ -1,4 +1,4 @@
-# SETUP-FOR-DUMMIES
+# SETUP-FOR-DUMMIES   -NO API KEYS or money things required! Use your own GPU to power your AI locally for free
 
 A step‑by‑step guide to get ChatAI up and running, even if you’ve never done this before.
 
