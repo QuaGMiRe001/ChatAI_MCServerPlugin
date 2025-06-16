@@ -135,4 +135,4 @@ A drop‑in Bukkit plugin that brings vanilla Minecraft villagers (and server ch
 
 ---
 
-<center>Made with ❤️ by the ChatAI Team</center>
+<center>Made with ❤️ by graphitact</center>
