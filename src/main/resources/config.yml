@@ -1,4 +1,4 @@
-proxy-url: http://localhost:3000/ai
+proxy-url: http://localhost:3004/ai
 system-prompt: |
   You are the official in-game AI assistant for "A friendly survival server with custom AI-powered chat features."
   Your job is to help players with exactly what this server can do—nothing more, nothing less.
