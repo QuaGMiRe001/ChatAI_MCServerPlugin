@@ -1,0 +1,88 @@
+8ab239a7-bca9-4a21-ba98-9d743e150804:
+  baseName: Brutus
+  village:
+    id: f25e981b-3f9e-4476-920b-07d85a94b2ac
+    name: Willowbrook
+    isQuestGiver: false
+50baa319-5583-4868-8c8b-c15d00b24f90: Villager9919
+3dd3e0f3-1002-4da8-bce6-39fc013d9451:
+  baseName: Elyn
+  village:
+    id: f25e981b-3f9e-4476-920b-07d85a94b2ac
+    name: Willowbrook
+    isQuestGiver: false
+9df63bf5-16f4-49d4-9a18-d7e1b0820865:
+  baseName: Thenis
+  village:
+    id: f25e981b-3f9e-4476-920b-07d85a94b2ac
+    name: Willowbrook
+    isQuestGiver: false
+932f7ca5-6a32-4812-932b-040eb2034a11:
+  baseName: Darius
+  village:
+    id: f25e981b-3f9e-4476-920b-07d85a94b2ac
+    name: Willowbrook
+    isQuestGiver: true
+b8353240-6ca1-46e0-9235-33e8d345a005:
+  village:
+    id: d096bba2-a188-4ec7-858a-800ddfcc32b8
+    name: Willowbrook
+    isQuestGiver: false
+d74d955f-513b-41de-a310-c37530a5a810:
+  village:
+    id: d096bba2-a188-4ec7-858a-800ddfcc32b8
+    name: Willowbrook
+    isQuestGiver: false
+  baseName: Elowen
+23adc5d9-1a37-4a7c-92b4-3aa2963bfb15:
+  village:
+    id: d096bba2-a188-4ec7-858a-800ddfcc32b8
+    name: Willowbrook
+    isQuestGiver: false
+  baseName: Nerissa
+50cf3d1b-0638-4453-be91-238ccefb8228:
+  village:
+    id: 36358392-5886-4515-9b28-6df14f16c935
+    name: Willowbrook
+    isQuestGiver: true
+424c71cd-3afb-46fe-82a2-8cc2783f996b:
+  village:
+    id: 36358392-5886-4515-9b28-6df14f16c935
+    name: Willowbrook
+    isQuestGiver: false
+  baseName: Thenis
+2eb2192c-6326-4033-9267-216deee26e4a:
+  village:
+    id: 36358392-5886-4515-9b28-6df14f16c935
+    name: Willowbrook
+    isQuestGiver: false
+  baseName: Elowen
+afb196ae-b675-43b9-b43f-2d0a80eb5c47:
+  village:
+    id: 36358392-5886-4515-9b28-6df14f16c935
+    name: Willowbrook
+    isQuestGiver: true
+a259c9ce-0464-4237-b9a8-e259c6a10b10:
+  village:
+    id: f25e981b-3f9e-4476-920b-07d85a94b2ac
+    name: Willowbrook
+    isQuestGiver: false
+  baseName: Merriweather
+4ed38779-12b7-4294-8220-b859f8d2b0c8:
+  village:
+    id: f25e981b-3f9e-4476-920b-07d85a94b2ac
+    name: Willowbrook
+    isQuestGiver: false
+  baseName: Caius
+2db28d95-d4f5-42bf-8338-c23a0584f9d2:
+  village:
+    id: f25e981b-3f9e-4476-920b-07d85a94b2ac
+    name: Willowbrook
+    isQuestGiver: false
+  baseName: Diana
+0938d8d5-15f5-419f-845e-df4622723296:
+  village:
+    id: f25e981b-3f9e-4476-920b-07d85a94b2ac
+    name: Willowbrook
+    isQuestGiver: true
+  baseName: Lilly
